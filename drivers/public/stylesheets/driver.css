@@ -1,0 +1,14 @@
+div.columns {
+	width: 33%;
+	display: inline-table;
+	text-align: center;
+}
+
+div.head, div.columns {
+	border: 1px solid;
+}
+
+div.dynamic-box {
+	height: 220px;
+	border-bottom: 1px solid;
+}
